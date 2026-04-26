@@ -14,4 +14,5 @@ I'm currently exploring AI Product Manager roles in the automotive, manufacturin
 
 If you're building AI products for the real world, let's talk.
 📩 x23adarshs@iima.ac.in
+www.linkedin.com/in/adarsh-p110293/
 Mob: 9098790942
