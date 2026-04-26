@@ -23,6 +23,7 @@ Looking for **AI Product Manager** or **Digital Transformation Lead** roles wher
 
 ## Reach me
 
+- +91 90987 90942
 - 💼 [LinkedIn](https://linkedin.com/in/YOUR-LINKEDIN-HANDLE)
 - 🌐 Portfolio: [adarshshrivastava.vercel.app](https://adarsh-shrivastava.vercel.app)
 - 📧 x23adarshs@iima.ac.in
