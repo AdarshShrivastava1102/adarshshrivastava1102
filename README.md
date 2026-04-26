@@ -1,18 +1,32 @@
-I didn't plan to become an AI product leader. I planned to be an engineer.
+# Hi, I'm Adarsh 👋
 
-After my M.Tech from IIT Guwahati, I spent the first five years of my career on the ground — validating vehicles at Volvo Eicher, convincing CXO panels on BS-VI compliance, reducing field complaints through root cause analysis, and standing on manufacturing lines figuring out how to make things better. At Michelin, I moved from simulation to product design, built an ML model that predicted tyre life with 90%+ accuracy, and was handpicked for a global digital transformation task force during COVID-19.
+**AI Product Manager** · IIM Ahmedabad · IIT Guwahati · Bengaluru
 
-That's when I realised the most interesting problems weren't purely engineering problems. They were product problems. Business problems. And increasingly — AI problems.
+I build AI products at the intersection of business and technology. Currently shipping GenAI copilots for Fortune-500 clients at Cognizant. 
+Before this — ML at Michelin, BS-VI compliance at Volvo Eicher.
 
-I went to IIM Ahmedabad to sharpen that business lens. And when I came back, I brought both sides together.
+## What I'm building
 
-At Cognizant, I now lead AI and digital transformation engagements for automotive and manufacturing clients — building AI agents using Microsoft Copilot Studio and Google Gemini, owning product roadmaps, running sprints, and managing a $9M client portfolio. I've seen firsthand where AI creates real value on the shop floor, in design cycles, in supply chains — because I've worked in all of those places myself.
+- 🤖 **AI agents and copilots** using Claude API + LangChain
+- 📊 **Production ML systems** (92% accuracy ML model deployed at Michelin)
+- 🏭 **Digital transformation** for automotive & manufacturing — migrated 250+ apps across 60+ sites
 
-That combination — engineering depth, business acumen, and hands-on AI delivery — is what I bring to product.
+## What I'm exploring next
 
-I'm currently exploring AI Product Manager roles in the automotive, manufacturing, and industrial technology space.
+Looking for **AI Product Manager** or **Digital Transformation Lead** roles where I can ship products end-to-end. Industries I know: automotive, manufacturing, enterprise SaaS. Open to DMs.
 
-If you're building AI products for the real world, let's talk.
-📩 x23adarshs@iima.ac.in
-www.linkedin.com/in/adarsh-p110293/
-Mob: 9098790942
+## Currently learning
+
+- Anthropic's Building Effective Agents framework
+- Multi-agent orchestration with CrewAI
+- LLM evaluation and guardrails
+
+## Reach me
+
+- 💼 [LinkedIn](https://linkedin.com/in/YOUR-LINKEDIN-HANDLE)
+- 🌐 Portfolio: [adarshshrivastava.vercel.app](https://adarshshrivastava.vercel.app)
+- 📧 x23adarshs@iima.ac.in
+
+---
+
+*Building in public. Learning out loud.*
