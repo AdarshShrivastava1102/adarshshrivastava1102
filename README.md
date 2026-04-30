@@ -3,12 +3,12 @@
 **AI Product Manager** · IIM Ahmedabad · IIT Guwahati · Bengaluru
 
 I build AI products at the intersection of business and technology. Currently shipping GenAI copilots for Fortune-500 clients at Cognizant. 
-Before this — ML at Michelin, BS-VI compliance at Volvo Eicher.
+Before this — Product Manager and Digital Transformation at Michelin, BS-VI compliance at Volvo Eicher.
 
 ## What I'm building
 
 - 🤖 **AI agents and copilots** using Claude API + LangChain
-- 📊 **Production ML systems** (92% accuracy ML model deployed at Michelin)
+- 📊 **Production ML systems** 
 - 🏭 **Digital transformation** for automotive & manufacturing — migrated 250+ apps across 60+ sites
 
 ## What I'm exploring next
@@ -25,7 +25,6 @@ Looking for **AI Product Manager** or **Digital Transformation Lead** roles wher
 
 - +91 90987 90942
 - 💼 [LinkedIn](https://linkedin.com/in/adarsh-p110293/)
-- 🌐 Portfolio: [adarsh-shrivastava.vercel.app](https://adarsh-shrivastava.vercel.app)
 - 📧 x23adarshs@iima.ac.in
 
 ---
